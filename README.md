@@ -9,7 +9,7 @@ Lawyer turned developer, I've found deep appreciation for backend development an
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [arthurpolice1@gmail.com](mailto:arthurpolice1@gmail.com)
 *   🚀  I'm currently working on [Delicious Plan](http://delicious-plan.vercel.app/)
-*   🧠  I'm learning NextJS, React and Django
+*   🧠  I'm learning NextJS, React, Django, Ruby and Ruby on Rails
 
 ### Skills 
 <p align="left">
