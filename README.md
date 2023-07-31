@@ -4,12 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full Stack Web Developer
 -------------------------------
 
-Lawyer turned developer, I've found deep appreciation for backend development and its challenges. I strive to build applications that are fluid, easy to use and, above all else, useful! Welcome to my profile, I hope you enjoy your stay!
+Lawyer turned developer, enjoying the pleasure of being a modern age artisan.
 
-*   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [arthurpolice1@gmail.com](mailto:arthurpolice1@gmail.com)
-*   🚀  I'm currently working on [Delicious Plan](http://delicious-plan.vercel.app/)
-*   🧠  I'm learning NextJS, React, Django, Ruby and Ruby on Rails
+*   🚀  I'm currently working on Freelancing and [Zuppy](https://app.zuppy.co/client)
 
 ### Skills 
 <p align="left">
