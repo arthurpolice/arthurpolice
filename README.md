@@ -7,8 +7,8 @@ Full Stack Web Developer
 Lawyer turned developer, enjoying the pleasure of being a modern age artisan.
 
 *   ✉️  You can contact me at [arthurpolice1@gmail.com](mailto:arthurpolice1@gmail.com)
-*   🚀  I'm currently working on Freelancing and [Zuppy](https://app.zuppy.co/client)
-
+*   🚀  I'm currently working on Freelancing.
+  
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg" width="36" height="36" alt="TypeScript" /></a>
