@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 -------------------------------
 
-Lawyer turned developer, enjoying the pleasure of being a modern age artisan.
-
 *   ✉️  You can contact me at [arthurpolice1@gmail.com](mailto:arthurpolice1@gmail.com)
 *   🚀  I'm currently working on Freelancing.
   
